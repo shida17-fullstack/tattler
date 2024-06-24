@@ -1,0 +1,74 @@
+[
+  {
+    "id_restaurante": "60b8d295f8b4d536c8a68888",
+    "puntuaciones": [
+      {
+        "fecha": "2023-06-01",
+        "calificacion": "excelente",
+        "comentario": "Una experiencia increíble",
+        "puntuacion": 5,
+        "usuario_id": "60b8d295f8b4d536c8a68889"
+      }
+    ]
+  },
+  {
+    "id_restaurante": "60b8d295f8b4d536c8a68890",
+    "puntuaciones": [
+      {
+        "fecha": "2023-06-02",
+        "calificacion": "bueno",
+        "comentario": "Buena comida, pero el servicio puede mejorar",
+        "puntuacion": 3,
+        "usuario_id": "60b8d295f8b4d536c8a68891"
+      }
+    ]
+  },
+  {
+    "id_restaurante": "60b8d295f8b4d536c8a68892",
+    "puntuaciones": [
+      {
+        "fecha": "2023-06-03",
+        "calificacion": "excelente",
+        "comentario": "La mejor carne que he probado",
+        "puntuacion": 5,
+        "usuario_id": "60b8d295f8b4d536c8a68893"
+      }
+    ]
+  },
+  {
+    "id_restaurante": "60b8d295f8b4d536c8a68894",
+    "puntuaciones": [
+      {
+        "fecha": "2023-06-04",
+        "calificacion": "regular",
+        "comentario": "Comida normal, pero el ambiente es agradable",
+        "puntuacion": 3,
+        "usuario_id": "60b8d295f8b4d536c8a68895"
+      }
+    ]
+  },
+  {
+    "id_restaurante": "60b8d295f8b4d536c8a68896",
+    "puntuaciones": [
+      {
+        "fecha": "2023-06-05",
+        "calificacion": "excelente",
+        "comentario": "Gran variedad de platos y excelente servicio",
+        "puntuacion": 5,
+        "usuario_id": "60b8d295f8b4d536c8a68897"
+      }
+    ]
+  },
+  {
+    "id_restaurante": "60b8d295f8b4d536c8a68898",
+    "puntuaciones": [
+      {
+        "fecha": "2023-06-06",
+        "calificacion": "bueno",
+        "comentario": "Buena comida con muchas opciones",
+        "puntuacion": 4,
+        "usuario_id": "60b8d295f8b4d536c8a68899"
+      }
+    ]
+  }
+]

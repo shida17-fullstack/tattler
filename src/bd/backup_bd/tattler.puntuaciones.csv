@@ -1,0 +1,7 @@
+_id,id_restaurante,puntuaciones[0].fecha,puntuaciones[0].calificacion,puntuaciones[0].comentario,puntuaciones[0].puntuacion,puntuaciones[0].usuario_id,puntuaciones[0]._id
+6678503405f8786bd61a8996,60b8d295f8b4d536c8a68888,2023-06-01T00:00:00.000Z,excelente,Una experiencia increíble,5,60b8d295f8b4d536c8a68889,6678503405f8786bd61a8997
+6678503405f8786bd61a899a,60b8d295f8b4d536c8a68890,2023-06-02T00:00:00.000Z,bueno,"Buena comida, pero el servicio puede mejorar",3,60b8d295f8b4d536c8a68891,6678503405f8786bd61a899b
+6678503405f8786bd61a899e,60b8d295f8b4d536c8a68892,2023-06-03T00:00:00.000Z,excelente,La mejor carne que he probado,5,60b8d295f8b4d536c8a68893,6678503405f8786bd61a899f
+6678503405f8786bd61a89a2,60b8d295f8b4d536c8a68894,2023-06-04T00:00:00.000Z,regular,"Comida normal, pero el ambiente es agradable",3,60b8d295f8b4d536c8a68895,6678503405f8786bd61a89a3
+6678503405f8786bd61a89a6,60b8d295f8b4d536c8a68896,2023-06-05T00:00:00.000Z,excelente,Gran variedad de platos y excelente servicio,5,60b8d295f8b4d536c8a68897,6678503405f8786bd61a89a7
+6678503405f8786bd61a89aa,60b8d295f8b4d536c8a68898,2023-06-06T00:00:00.000Z,bueno,Buena comida con muchas opciones,4,60b8d295f8b4d536c8a68899,6678503405f8786bd61a89ab

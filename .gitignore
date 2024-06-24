@@ -1,0 +1,5 @@
+# Ignorar node_modules en el directorio src
+/src/node_modules/
+
+# Ignorar el archivo .env en el directorio config
+/src/config/.env

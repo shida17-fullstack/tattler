@@ -1,0 +1,168 @@
+{
+    "_id" : "0543ec94-61fc-47b0-9ace-99ac2963a857",
+    "nombre" : "Milonga Tasting Argentina",
+    "direccion" : {
+        "calle" : "San Martin 705 Monasterio de Santa Catalina de Siena",
+        "codigo_postal" : "1004",
+        "coordenadas" : [
+            -34.598879,
+            -58.372831
+        ]
+    },
+    "barrio" : "San Nicolas",
+    "cocina" : "Churrasquería, Parrilla, Argentina"
+}
+{
+    "_id" : "639adb42-b11d-41f8-94d0-8ded5f207253",
+    "nombre" : "Criolla Cooking & Wine",
+    "direccion" : {
+        "calle" : "Gorriti 4832",
+        "codigo_postal" : "1414",
+        "coordenadas" : [
+            -34.586848,
+            -58.426142
+        ]
+    },
+    "barrio" : "Palermo",
+    "cocina" : "Parrilla, Argentina"
+}
+{
+    "_id" : "38e38896-b403-4091-a858-5eb37e590614",
+    "nombre" : "Fogón Asado",
+    "direccion" : {
+        "calle" : "Uriarte 1423",
+        "codigo_postal" : "1414",
+        "coordenadas" : [
+            -34.589366,
+            -58.430466
+        ]
+    },
+    "barrio" : "Palermo",
+    "cocina" : "Churrasquería, Parrillada, Parrilla, Argentina"
+}
+{
+    "_id" : "82528601-fa11-4d74-b524-0eaf2cd4d34d",
+    "nombre" : "Argentine Experience",
+    "direccion" : {
+        "calle" : "Fitz Roy 2110 Palermo Hollywood",
+        "codigo_postal" : "1425",
+        "coordenadas" : [
+            -34.585639,
+            -58.427451
+        ]
+    },
+    "barrio" : "Palermo Hollywood",
+    "cocina" : "Churrasquería, Parrilla"
+}
+{
+    "_id" : "693b7178-b8c8-4caf-afec-72f4213fdb96",
+    "nombre" : "Italpast",
+    "direccion" : {
+        "calle" : "Juana Manso 1450 Faena Hotel Buenos Aires",
+        "codigo_postal" : "1107",
+        "coordenadas" : [
+            -34.609131,
+            -58.363863
+        ]
+    },
+    "barrio" : "Buenos Aires",
+    "cocina" : "Italiana, Francesa, Europea, Sarda"
+}
+{
+    "_id" : "347f90c7-1fb8-4ce2-9beb-c0f70c94d8eb",
+    "nombre" : "El Mercado",
+    "direccion" : {
+        "calle" : "Martha Salotti 445",
+        "codigo_postal" : "1107",
+        "coordenadas" : [
+            -34.595951,
+            -58.366539
+        ]
+    },
+    "barrio" : "Buenos Aires",
+    "cocina" : "Argentina"
+}
+{
+    "_id" : "60361c61-1e19-4c2e-9312-2745eb42090b",
+    "nombre" : "Parrilla del Sol",
+    "direccion" : {
+        "calle" : "Av. Libertador 3050",
+        "codigo_postal" : "1425",
+        "coordenadas" : [
+            -34.577851,
+            -58.404236
+        ]
+    },
+    "barrio" : "Belgrano",
+    "cocina" : "Parrilla, Argentina"
+}
+{
+    "_id" : "1a988282-944a-4951-b639-2f5e19a71344",
+    "nombre" : "Bistro Paris",
+    "direccion" : {
+        "calle" : "Av. de Mayo 1111",
+        "codigo_postal" : "1085",
+        "coordenadas" : [
+            -34.609592,
+            -58.383458
+        ]
+    },
+    "barrio" : "Monserrat",
+    "cocina" : "Francesa, Europea"
+}
+{
+    "_id" : "e09b2ebd-5945-4605-852e-fd8f41b37f52",
+    "nombre" : "Sushi Club",
+    "direccion" : {
+        "calle" : "Av. Corrientes 850",
+        "codigo_postal" : "1043",
+        "coordenadas" : [
+            -34.603722,
+            -58.381592
+        ]
+    },
+    "barrio" : "Centro",
+    "cocina" : "Sushi, Japonesa"
+}
+{
+    "_id" : "a6285ebd-fc89-4618-886f-5940d22e3ea0",
+    "nombre" : "La Trattoria",
+    "direccion" : {
+        "calle" : "Av. Rivadavia 2100",
+        "codigo_postal" : "1033",
+        "coordenadas" : [
+            -34.609173,
+            -58.392917
+        ]
+    },
+    "barrio" : "Balvanera",
+    "cocina" : "Italiana, Mediterránea"
+}
+{
+    "_id" : "cb11a78c-6a36-4143-b56e-1351f2211364",
+    "nombre" : "Tapas Bar",
+    "direccion" : {
+        "calle" : "Florida 1005",
+        "codigo_postal" : "1005",
+        "coordenadas" : [
+            -34.60369,
+            -58.377483
+        ]
+    },
+    "barrio" : "Centro",
+    "cocina" : "Española, Tapas"
+}
+{
+    "_id" : "352826f1-ddd4-4972-8b61-b2d023dce734",
+    "nombre" : "Pizzeria Napoli",
+    "direccion" : {
+        "calle" : "Av. Córdoba 1500",
+        "codigo_postal" : "1055",
+        "coordenadas" : [
+            -34.598557,
+            -58.393544
+        ]
+    },
+    "barrio" : "Recoleta",
+    "cocina" : "Pizzas, Italiana"
+}

@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68889"
+  },
+  "nombre": "Juan Pérez",
+  "email": "juan123@gmail.com",
+  "telefono": "1547694757",
+  "direccion": "Montevideo Nº 123, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68891"
+  },
+  "nombre": "María Gómez",
+  "email": "maria.gomez85@outlook.com",
+  "telefono": "1550895510",
+  "direccion": "Avenida Inmigrantes Nº 456, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68893"
+  },
+  "nombre": "Pedro Rodríguez",
+  "email": "prodriguez@yahoo.com",
+  "telefono": "1540605476",
+  "direccion": "Peron Nº 340, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68895"
+  },
+  "nombre": "Ana Martínez",
+  "email": "anamartinez78@gmail.com",
+  "telefono": "1534874449",
+  "direccion": "Segurola Nº 567, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68897"
+  },
+  "nombre": "Luisa Sánchez",
+  "email": "lsanchez@gmail.com",
+  "telefono": "48903457",
+  "direccion": "Avenida Caseros Nº 890, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68899"
+  },
+  "nombre": "Carlos López",
+  "email": "carlos.lopez@hotmail.com",
+  "telefono": "46301011",
+  "direccion": "Piedrabuena Nº 246, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a6889b"
+  },
+  "nombre": "Laura García",
+  "email": "lauragarcia@gmail.com",
+  "telefono": "47694757",
+  "direccion": "Bme Mitre Nº 345, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a6889d"
+  },
+  "nombre": "Jorge Martín",
+  "email": "jmartin79@yahoo.com",
+  "telefono": "43201247",
+  "direccion": "Helguera Nº 678, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a6889f"
+  },
+  "nombre": "Sofía Fernández",
+  "email": "s.fernandez@outlook.com",
+  "telefono": "1547695020",
+  "direccion": "Avenida Centenario Nº 901, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d68"
+  },
+  "nombre": "Martín Sánchez",
+  "email": "martin234@gmail.com",
+  "telefono": "47654321",
+  "direccion": "Libertad Nº 456 Ciudad Autonoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d69"
+  },
+  "nombre": "Andrea López",
+  "email": "andreab@gmail.com",
+  "telefono": "46267747",
+  "direccion": "Sanabria Nº 789 Ciudad Autonoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6a"
+  },
+  "nombre": "Daniel Martínez",
+  "email": "danielm@outlook.com",
+  "telefono": "43451255",
+  "direccion": "Monroe Nº 123 Ciudad Autonoma de Buenos Aires"
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6b"
+  },
+  "nombre": "Carolina Rodríguez",
+  "email": "carolinaro@yahoo.com",
+  "telefono": "1549657890",
+  "direccion": " Morris Nº 567 Hurlingham"
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6c"
+  },
+  "nombre": "Fernando Gómez",
+  "email": "fernando45@gmail.com",
+  "telefono": "45679000",
+  "direccion": "Bernardo de Yrigoyen Nº 890 Moron"
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6d"
+  },
+  "nombre": "Lucía Pérez",
+  "email": "perez@gmail.com",
+  "telefono": "44556346",
+  "direccion": " Avenida Rivadavia Nº 246 Haedo"
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6e"
+  },
+  "nombre": "Pablo Fernández",
+  "email": "pablo3@gmail.com",
+  "telefono": "1533768934",
+  "direccion": "Pedriel Nº 345 San Martin"
+}]

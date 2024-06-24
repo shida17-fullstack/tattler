@@ -1,0 +1,63 @@
+[
+    {
+      "nombre": "Milonga Tasting Argentina",
+      "direccion": {
+        "calle": "San Martin 705 Monasterio de Santa Catalina de Siena",
+        "codigo_postal": "1004",
+        "coordenadas": [-34.598879, -58.372831]
+      },
+      "barrio": "San Nicolas",
+      "cocina": "Churrasquería, Parrilla, Argentina"
+    },
+    {
+      "nombre": "Criolla Cooking & Wine",
+      "direccion": {
+        "calle": "Gorriti 4832",
+        "codigo_postal": "1414",
+        "coordenadas": [-34.586848, -58.426142]
+      },
+      "barrio": "Palermo",
+      "cocina": "Parrilla, Argentina"
+    },
+    {
+      "nombre": "Fogón Asado",
+      "direccion": {
+        "calle": "Uriarte 1423",
+        "codigo_postal": "1414",
+        "coordenadas": [-34.589366, -58.430466]
+      },
+      "barrio": "Palermo",
+      "cocina": "Churrasquería, Parrillada, Parrilla, Argentina"
+    },
+    {
+      "nombre": "Argentine Experience",
+      "direccion": {
+        "calle": "Fitz Roy 2110 Palermo Hollywood",
+        "codigo_postal": "1425",
+        "coordenadas": [-34.585639, -58.427451]
+      },
+      "barrio": "Palermo Hollywood",
+      "cocina": "Churrasquería, Parrilla"
+    },
+    {
+      "nombre": "Italpast",
+      "direccion": {
+        "calle": "Juana Manso 1450 Faena Hotel Buenos Aires",
+        "codigo_postal": "1107",
+        "coordenadas": [-34.609131, -58.363863]
+      },
+      "barrio": "Buenos Aires",
+      "cocina": "Italiana, Francesa, Europea, Sarda"
+    },
+    {
+      "nombre": "El Mercado",
+      "direccion": {
+        "calle": "Martha Salotti 445",
+        "codigo_postal": "1107",
+        "coordenadas": [-34.595951, -58.366539]
+      },
+      "barrio": "Buenos Aires",
+      "cocina": "Argentina"
+    }
+  ]
+  

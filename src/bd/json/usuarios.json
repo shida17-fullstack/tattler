@@ -1,0 +1,65 @@
+[
+    {
+        "_id": "60b8d295f8b4d536c8a68889",
+        "nombre": "Juan Pérez",
+        "email": "juan123@gmail.com",
+        "telefono": "1547694757",
+        "direccion": "Montevideo Nº 123, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    },
+    {
+        "_id": "60b8d295f8b4d536c8a68891",
+        "nombre": "María Gómez",
+        "email": "maria.gomez85@outlook.com",
+        "telefono": "1550895510",
+        "direccion": "Avenida Inmigrantes Nº 456, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    },
+    {
+        "_id": "60b8d295f8b4d536c8a68893",
+        "nombre": "Pedro Rodríguez",
+        "email": "prodriguez@yahoo.com",
+        "telefono": "1540605476",
+        "direccion": "Peron Nº 340, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    },
+    {
+        "_id": "60b8d295f8b4d536c8a68895",
+        "nombre": "Ana Martínez",
+        "email": "anamartinez78@gmail.com",
+        "telefono": "1534874449",
+        "direccion": "Segurola Nº 567, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    },
+    {
+        "_id": "60b8d295f8b4d536c8a68897",
+        "nombre": "Luisa Sánchez",
+        "email": "lsanchez@gmail.com",
+        "telefono": "48903457",
+        "direccion": "Avenida Caseros Nº 890, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    },
+    {
+        "_id": "60b8d295f8b4d536c8a68899",
+        "nombre": "Carlos López",
+        "email": "carlos.lopez@hotmail.com",
+        "telefono": "46301011",
+        "direccion": "Piedrabuena Nº 246, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    },
+    {
+        "_id": "60b8d295f8b4d536c8a6889b",
+        "nombre": "Laura García",
+        "email": "lauragarcia@gmail.com",
+        "telefono": "47694757",
+        "direccion": "Bme Mitre Nº 345, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    },
+    {
+        "_id": "60b8d295f8b4d536c8a6889d",
+        "nombre": "Jorge Martín",
+        "email": "jmartin79@yahoo.com",
+        "telefono": "43201247",
+        "direccion": "Helguera Nº 678, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    },
+    {
+        "_id": "60b8d295f8b4d536c8a6889f",
+        "nombre": "Sofía Fernández",
+        "email": "s.fernandez@outlook.com",
+        "telefono": "1547695020",
+        "direccion": "Avenida Centenario Nº 901, Buenos Aires, Ciudad Autónoma de Buenos Aires"
+    }
+]

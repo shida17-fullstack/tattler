@@ -1,0 +1,24 @@
+{
+  "name": "tattler",
+  "version": "1.0.0",
+  "description": "Una API RESTful para gestionar datos de restaurantes usando MongoDB, con operaciones CRUD y funcionalidad de importación,exportación y Backup de datos, colecciones e indices.",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3",
+    "uuidv4": "^6.2.13"
+  },
+  "keywords": ["restaurantes", "API RESTful", "MongoDB", "importación de datos", "CRUD", "API REST"],
+  "author": "shida17-fullstack",
+  "license": "license.md"
+}

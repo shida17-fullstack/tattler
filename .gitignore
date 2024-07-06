@@ -1,0 +1,14 @@
+
+# Node.js
+node_modules/
+
+# Ignorar node_modules en el directorio src
+/src/node_modules/
+
+# Ignorar el archivo .env en el directorio config
+/src/config/.env
+
+# Ignorar la configuración de Visual Studio Code
+.vscode/
+
+

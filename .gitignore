@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignorar la configuración de Visual Studio Code
+.vscode/
+
+# Node.js
+node_modules/
+
+# Configuración específica del entorno
+src/config/.env

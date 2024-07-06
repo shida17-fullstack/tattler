@@ -1,0 +1,1238 @@
+[{
+  "_id": "0543ec94-61fc-47b0-9ace-99ac2963a857",
+  "nombre": "Milonga Tasting Argentina",
+  "direccion": {
+    "calle": "San Martin 705 Monasterio de Santa Catalina de Siena",
+    "codigo_postal": "1004",
+    "coordenadas": [
+      -58.372831,
+      -34.598879
+    ]
+  },
+  "barrio": "San Nicolas",
+  "cocina": "Parrilla",
+  "horario": {
+    "lunes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "martes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "jueves": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "viernes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "sabado": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "domingo": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "639adb42-b11d-41f8-94d0-8ded5f207253",
+  "nombre": "Criolla Cooking & Wine",
+  "direccion": {
+    "calle": "Gorriti 4832",
+    "codigo_postal": "1414",
+    "coordenadas": [
+      -58.426142,
+      -34.586848
+    ]
+  },
+  "barrio": "Palermo",
+  "cocina": "comida criolla",
+  "horario": {
+    "lunes": {
+      "apertura": "11:00",
+      "cierre": "22:00"
+    },
+    "martes": {
+      "apertura": "11:00",
+      "cierre": "22:00"
+    },
+    "jueves": {
+      "apertura": "11:00",
+      "cierre": "22:00"
+    },
+    "viernes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "sabado": {
+      "apertura": "11:00",
+      "cierre": "22:00"
+    },
+    "domingo": {
+      "apertura": "11:00",
+      "cierre": "22:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "38e38896-b403-4091-a858-5eb37e590614",
+  "nombre": "Fogón Asado",
+  "direccion": {
+    "calle": "Uriarte 1423",
+    "codigo_postal": "1414",
+    "coordenadas": [
+      -58.430466,
+      -34.589366
+    ]
+  },
+  "barrio": "Palermo",
+  "cocina": "Churrasquería, Parrillada, Parrilla, Argentina",
+  "horario": {
+    "lunes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "martes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "jueves": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "viernes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "sabado": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "domingo": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "693b7178-b8c8-4caf-afec-72f4213fdb96",
+  "nombre": "Italpast",
+  "direccion": {
+    "calle": "Juana Manso 1450 Faena Hotel Buenos Aires",
+    "codigo_postal": "1107",
+    "coordenadas": [
+      -58.363863,
+      -34.609131
+    ]
+  },
+  "barrio": "Buenos Aires",
+  "cocina": "Italiana, Francesa, Europea, Sarda",
+  "horario": {
+    "jueves": {
+      "apertura": "10:30",
+      "cierre": "15:00"
+    },
+    "viernes": {
+      "apertura": "10:30",
+      "cierre": "15:00"
+    },
+    "sabado": {
+      "apertura": "10:30",
+      "cierre": "15:00"
+    },
+    "domingo": {
+      "apertura": "10:30",
+      "cierre": "15:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "347f90c7-1fb8-4ce2-9beb-c0f70c94d8eb",
+  "nombre": "El Mercado",
+  "direccion": {
+    "calle": "Martha Salotti 445",
+    "codigo_postal": "1107",
+    "coordenadas": [
+      -58.366539,
+      -34.595951
+    ]
+  },
+  "barrio": "Buenos Aires",
+  "cocina": "Argentina",
+  "horario": {
+    "lunes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "martes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "jueves": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "viernes": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "sabado": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    },
+    "domingo": {
+      "apertura": "07:00",
+      "cierre": "15:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "60361c61-1e19-4c2e-9312-2745eb42090b",
+  "nombre": "Parrilla del Sol",
+  "direccion": {
+    "calle": "Av. Libertador 3050",
+    "codigo_postal": "1425",
+    "coordenadas": [
+      -58.404236,
+      -34.577851
+    ]
+  },
+  "barrio": "Belgrano",
+  "cocina": "Parrilla, Argentina",
+  "horario": {
+    "lunes": {
+      "apertura": "7:00",
+      "cierre": "17:00"
+    },
+    "martes": {
+      "apertura": "7:00",
+      "cierre": "17:00"
+    },
+    "jueves": {
+      "apertura": "7:00",
+      "cierre": "17:00"
+    },
+    "viernes": {
+      "apertura": "7:00",
+      "cierre": "17:00"
+    },
+    "sabado": {
+      "apertura": "7:00",
+      "cierre": "17:00"
+    },
+    "domingo": {
+      "apertura": "7:00",
+      "cierre": "17:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "1a988282-944a-4951-b639-2f5e19a71344",
+  "nombre": "La Embajada",
+  "direccion": {
+    "calle": "Av. de Mayo 625",
+    "codigo_postal": "1084",
+    "coordenadas": [
+      -58.37094232878336,
+      -34.59734939517386
+    ]
+  },
+  "barrio": "Monserrat",
+  "cocina": "Francesa, Europea",
+  "horario": {
+    "lunes": {
+      "apertura": "7:00",
+      "cierre": "23:00"
+    },
+    "martes": {
+      "apertura": "7:00",
+      "cierre": "23:00"
+    },
+    "jueves": {
+      "apertura": "7:00",
+      "cierre": "23:00"
+    },
+    "viernes": {
+      "apertura": "7:00",
+      "cierre": "23:00"
+    },
+    "sabado": {
+      "apertura": "7:00",
+      "cierre": "23:00"
+    },
+    "domingo": {
+      "apertura": "7:00",
+      "cierre": "23:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "e09b2ebd-5945-4605-852e-fd8f41b37f52",
+  "nombre": "Sushi Club",
+  "direccion": {
+    "calle": "Alicia Moreau de Justo 286",
+    "codigo_postal": "1107",
+    "coordenadas": [
+      -58.36685537189173,
+      -34.60169807960849
+    ]
+  },
+  "barrio": "Centro",
+  "cocina": "Sushi, Japonesa",
+  "horario": {
+    "lunes": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "martes": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "jueves": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "viernes": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "sabado": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "domingo": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "a6285ebd-fc89-4618-886f-5940d22e3ea0",
+  "nombre": "La Gran Via",
+  "direccion": {
+    "calle": "Av. Rivadavia 2014",
+    "codigo_postal": "1033",
+    "coordenadas": [
+      -58.39510515168783,
+      -34.609385722271874
+    ]
+  },
+  "barrio": "Balvanera",
+  "cocina": "Comida para llevar\"",
+  "horario": {
+    "lunes": {
+      "apertura": "10:00",
+      "cierre": "13:00"
+    },
+    "martes": {
+      "apertura": "10:00",
+      "cierre": "13:00"
+    },
+    "jueves": {
+      "apertura": "10:00",
+      "cierre": "13:00"
+    },
+    "viernes": {
+      "apertura": "10:00",
+      "cierre": "13:00"
+    },
+    "sabado": {
+      "apertura": "10:00",
+      "cierre": "13:00"
+    },
+    "domingo": {
+      "apertura": "10:00",
+      "cierre": "13:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "cb11a78c-6a36-4143-b56e-1351f2211364",
+  "nombre": "Tancat",
+  "direccion": {
+    "calle": "Paraguay 645",
+    "codigo_postal": "1057",
+    "coordenadas": [
+      -58.37613853325617,
+      -34.597245925540015
+    ]
+  },
+  "barrio": "Centro",
+  "cocina": "Española",
+  "horario": {
+    "lunes": {
+      "apertura": "07:00",
+      "cierre": "16:00"
+    },
+    "martes": {
+      "apertura": "07:00",
+      "cierre": "16:00"
+    },
+    "miercoles": {
+      "apertura": "07:00",
+      "cierre": "16:00"
+    },
+    "jueves": {
+      "apertura": "07:00",
+      "cierre": "16:00"
+    },
+    "viernes": {
+      "apertura": "07:00",
+      "cierre": "16:00"
+    },
+    "sabado": {
+      "apertura": "07:00",
+      "cierre": "11:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "352826f1-ddd4-4972-8b61-b2d023dce734",
+  "nombre": "Napoles",
+  "direccion": {
+    "calle": "Av.Caseros 449",
+    "codigo_postal": "1156",
+    "coordenadas": [
+      -58.393544,
+      -34.598557
+    ]
+  },
+  "barrio": "San Telmo",
+  "cocina": "Pizzas, Italiana",
+  "horario": {
+    "lunes": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "martes": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "miercoles": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "jueves": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "viernes": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "sabado": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "9fc9633c-2ccb-4734-89f1-302bb596f598",
+  "nombre": "Lo de Carlitos",
+  "direccion": {
+    "calle": "Lavalleja Nº 23",
+    "codigo_postal": "1717",
+    "coordenadas": [
+      -58.642513,
+      -34.655564
+    ]
+  },
+  "barrio": "¨Castelar",
+  "cocina": "Comida rápida, Argentina, Sudamericana",
+  "horario": {
+    "lunes": {
+      "apertura": "09:00",
+      "cierre": "12:00"
+    },
+    "martes": {
+      "apertura": "09:00",
+      "cierre": "12:00"
+    },
+    "miercoles": {
+      "apertura": "09:00",
+      "cierre": "12:00"
+    },
+    "jueves": {
+      "apertura": "09:00",
+      "cierre": "12:00"
+    },
+    "viernes": {
+      "apertura": "09:00",
+      "cierre": "12:00"
+    },
+    "sabado": {
+      "apertura": "09:00",
+      "cierre": "12:00"
+    },
+    "domingo": {
+      "apertura": "09:00",
+      "cierre": "12:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "b88853b3-e408-499b-b72b-398ccf793c3a",
+  "nombre": "Herminia Infusiones",
+  "direccion": {
+    "calle": "Santa Rosa Nº 1727",
+    "codigo_postal": "1712",
+    "coordenadas": [
+      -58.619364,
+      -34.646341
+    ]
+  },
+  "barrio": "¨Castelar",
+  "cocina": "Café, Argentina, Sudamericana",
+  "horario": {
+    "lunes": {
+      "apertura": "08:00",
+      "cierre": "20:00"
+    },
+    "martes": {
+      "apertura": "08:00",
+      "cierre": "20:00"
+    },
+    "miercoles": {
+      "apertura": "08:00",
+      "cierre": "20:00"
+    },
+    "jueves": {
+      "apertura": "08:00",
+      "cierre": "20:00"
+    },
+    "viernes": {
+      "apertura": "08:00",
+      "cierre": "20:00"
+    },
+    "sabado": {
+      "apertura": "08:00",
+      "cierre": "20:00"
+    },
+    "domingo": {
+      "apertura": "08:00",
+      "cierre": "20:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "5c72a9ee-a011-4c7a-b637-28bab184a164",
+  "nombre": "La Tarzan de Castelar",
+  "direccion": {
+    "calle": "Los Incas Nº 2309",
+    "codigo_postal": "1712",
+    "coordenadas": [
+      -58.619364,
+      -34.646341
+    ]
+  },
+  "barrio": "¨Castelar",
+  "cocina": "Argentina, Sudamericana",
+  "horario": {
+    "lunes": {
+      "apertura": "08:00",
+      "cierre": "13:00"
+    },
+    "martes": {
+      "apertura": "08:00",
+      "cierre": "13:00"
+    },
+    "miercoles": {
+      "apertura": "08:00",
+      "cierre": "13:00"
+    },
+    "jueves": {
+      "apertura": "08:00",
+      "cierre": "13:00"
+    },
+    "viernes": {
+      "apertura": "08:00",
+      "cierre": "13:00"
+    },
+    "sabado": {
+      "apertura": "08:00",
+      "cierre": "13:00"
+    },
+    "domingo": {
+      "apertura": "08:00",
+      "cierre": "13:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "e8701afb-1d43-4756-b616-eb586b488f81",
+  "nombre": "El Club de la Milanesa",
+  "direccion": {
+    "calle": "Santa Rosa Nº 1206",
+    "codigo_postal": "1714",
+    "coordenadas": [
+      -58.62194,
+      -34.65139
+    ]
+  },
+  "barrio": "¨Castelar",
+  "cocina": "Argentina, Sudamericana",
+  "horario": {
+    "lunes": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "martes": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "miercoles": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "jueves": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "viernes": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "sabado": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "domingo": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "8af06a7f-f4d1-41b9-9649-56f1d7543c77",
+  "nombre": "Donsion",
+  "direccion": {
+    "calle": "Santa Rosa Nº 1199",
+    "codigo_postal": "1712",
+    "coordenadas": [
+      -58.619364,
+      -34.646341
+    ]
+  },
+  "barrio": "¨Castelar",
+  "cocina": "Pizzería, Argentina, Sudamericana",
+  "horario": {
+    "lunes": {
+      "apertura": "18:00",
+      "cierre": "03:00"
+    },
+    "martes": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "miercoles": {
+      "apertura": "00:00",
+      "cierre": "13:00"
+    },
+    "jueves": {
+      "apertura": "18:00",
+      "cierre": "03:00"
+    },
+    "viernes": {
+      "apertura": "18:00",
+      "cierre": "03:00"
+    },
+    "sabado": {
+      "apertura": "18:00",
+      "cierre": "03:00"
+    },
+    "domingo": {
+      "apertura": "18:00",
+      "cierre": "03:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "19807142-5c40-48c9-a8cd-065912d9b0fa",
+  "nombre": "Prater Bar",
+  "direccion": {
+    "calle": "Rodriguez Peña Nº 139",
+    "codigo_postal": "1712",
+    "coordenadas": [
+      -58.641184,
+      -34.635394
+    ]
+  },
+  "barrio": "¨Castelar",
+  "cocina": "Estadounidense, Cervecería, Comida rápida, Pub, Argentina, Sudamericana",
+  "horario": {
+    "martes": {
+      "apertura": "18:00",
+      "cierre": "01:00"
+    },
+    "miercoles": {
+      "apertura": "18:00",
+      "cierre": "01:00"
+    },
+    "jueves": {
+      "apertura": "18:00",
+      "cierre": "01:00"
+    },
+    "viernes": {
+      "apertura": "18:00",
+      "cierre": "01:00"
+    },
+    "sabado": {
+      "apertura": "18:00",
+      "cierre": "01:00"
+    },
+    "domingo": {
+      "apertura": "18:00",
+      "cierre": "01:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "4b96b1a2-ae8b-441a-8b12-aad6d3ed249f",
+  "nombre": "Kentucky Pizzeria",
+  "direccion": {
+    "calle": "25 de Mayo Nº 52",
+    "codigo_postal": "1706",
+    "coordenadas": [
+      -58.619399,
+      -34.663853
+    ]
+  },
+  "barrio": "Ituzaingo",
+  "cocina": "Pizzeria",
+  "horario": {
+    "lunes": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "martes": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "miercoles": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "jueves": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "viernes": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "sabado": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    },
+    "domingo": {
+      "apertura": "08:00",
+      "cierre": "12:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "fa14566c-2cd2-409b-b30b-0cd1d9de9e50",
+  "nombre": "Peñon de Aguila",
+  "direccion": {
+    "calle": "Honduras Nº 5702",
+    "codigo_postal": "1414",
+    "coordenadas": [
+      -58.434766842506015,
+      -34.564683270949196
+    ]
+  },
+  "barrio": "Palermo, Ciudad Autonoma de Buenos Aires",
+  "cocina": "Cerveceria Artesanal",
+  "horario": {
+    "martes": {
+      "apertura": "17:00",
+      "cierre": "12:00"
+    },
+    "jueves": {
+      "apertura": "17:00",
+      "cierre": "13:00"
+    },
+    "viernes": {
+      "apertura": "17:00",
+      "cierre": "15:00"
+    },
+    "sabado": {
+      "apertura": "17:00",
+      "cierre": "15:00"
+    },
+    "domingo": {
+      "apertura": "17:00",
+      "cierre": "12:00"
+    }
+  },
+  "zona_horaria": "America/Argentina/Buenos_Aires"
+},
+{
+  "_id": "cd0c96fd-2ad6-43b5-a75b-ca595542785b",
+  "nombre": "Restaurante Azul Condesa",
+  "direccion": {
+    "calle": "Nueva Leon Nº 68",
+    "codigo_postal": "64880",
+    "coordenadas": [
+      -99.17951,
+      19.4128
+    ]
+  },
+  "barrio": "Colonia Condesa",
+  "cocina": "Cocina Mexicana Moderna",
+  "horario": {
+    "lunes": {
+      "apertura": "13:00",
+      "cierre": "1:30"
+    },
+    "martes": {
+      "apertura": "13:00",
+      "cierre": "1:30"
+    },
+    "jueves": {
+      "apertura": "13:00",
+      "cierre": "1:30"
+    },
+    "viernes": {
+      "apertura": "13:00",
+      "cierre": "1:30"
+    },
+    "sabado": {
+      "apertura": "13:00",
+      "cierre": "1:30"
+    },
+    "domingo": {
+      "apertura": "13:00",
+      "cierre": "18:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "69cbc118-d2a3-4555-b416-0d914a3df859",
+  "nombre": "Restaurante El Danubio",
+  "direccion": {
+    "calle": "Republica de Uruguay Nº 3",
+    "codigo_postal": "06010",
+    "coordenadas": [
+      -99.141012,
+      19.431062
+    ]
+  },
+  "barrio": "Barrio Chino",
+  "cocina": "Pescados y Mariscos",
+  "horario": {
+    "lunes": {
+      "apertura": "13:00",
+      "cierre": "21:00"
+    },
+    "martes": {
+      "apertura": "13:00",
+      "cierre": "21:00"
+    },
+    "jueves": {
+      "apertura": "13:00",
+      "cierre": "21:00"
+    },
+    "viernes": {
+      "apertura": "13:00",
+      "cierre": "1:30"
+    },
+    "sabado": {
+      "apertura": "13:00",
+      "cierre": "22:00"
+    },
+    "domingo": {
+      "apertura": "13:00",
+      "cierre": "22:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "cd0e1b1a-c978-4242-b8fa-a724beb62393",
+  "nombre": "Restaurante El Taquito Taurino",
+  "direccion": {
+    "calle": "Avenida del Carmen Nº 69",
+    "codigo_postal": "24100",
+    "coordenadas": [
+      -91.782448,
+      18.640783
+    ]
+  },
+  "barrio": "Centro Historico",
+  "cocina": "Tacos y otras comidas mexicanas",
+  "horario": {
+    "lunes": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "martes": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "jueves": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "viernes": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "sabado": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "domingo": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "12944b24-016c-4171-b74e-729bab8f706e",
+  "nombre": "Saks Polanco",
+  "direccion": {
+    "calle": "Campos Eliseo Nº 133",
+    "codigo_postal": "11560",
+    "coordenadas": [
+      -99.189618,
+      19.429538
+    ]
+  },
+  "barrio": "Chapultepec Morales",
+  "cocina": "Tequileria Vinoteca y otras comidas mexicanas",
+  "horario": {
+    "lunes": {
+      "apertura": "07:00",
+      "cierre": "00:00"
+    },
+    "martes": {
+      "apertura": "07:00",
+      "cierre": "00:00"
+    },
+    "jueves": {
+      "apertura": "07:00",
+      "cierre": "00:00"
+    },
+    "viernes": {
+      "apertura": "07:00",
+      "cierre": "00:00"
+    },
+    "sabado": {
+      "apertura": "08:00",
+      "cierre": "00:00"
+    },
+    "domingo": {
+      "apertura": "08:00",
+      "cierre": "23:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "5605fb9e-3dd3-48e1-a0b2-97f8e5ce1496",
+  "nombre": "Okuma",
+  "direccion": {
+    "calle": "Calz del Federalismo Nte 149",
+    "codigo_postal": "44100",
+    "coordenadas": [
+      -103.354514,
+      20.674261
+    ]
+  },
+  "barrio": "Centro Guadalajara",
+  "cocina": "sushi",
+  "horario": {
+    "lunes": {
+      "apertura": "12:00",
+      "cierre": "21:00"
+    },
+    "martes": {
+      "apertura": "12:00",
+      "cierre": "21:00"
+    },
+    "jueves": {
+      "apertura": "12:00",
+      "cierre": "21:00"
+    },
+    "viernes": {
+      "apertura": "12:00",
+      "cierre": "21:00"
+    },
+    "sabado": {
+      "apertura": "12:00",
+      "cierre": "21:00"
+    },
+    "domingo": {
+      "apertura": "12:00",
+      "cierre": "21:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "f950d117-ae20-4265-bf93-8d6dc1d0c984",
+  "nombre": "Restaurante El Cardenal",
+  "direccion": {
+    "calle": "Palma Nº 23",
+    "codigo_postal": "24100",
+    "coordenadas": [
+      -99.13527130342764,
+      19.43397805636522
+    ]
+  },
+  "barrio": "Centro Historico",
+  "cocina": "Tacos y otras comidas mexicanas",
+  "horario": {
+    "lunes": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "martes": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "jueves": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "viernes": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "sabado": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "domingo": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "cb92bc0e-17f4-40a1-a2f5-9be4050effc2",
+  "nombre": "Restaurante Les Moustaches",
+  "direccion": {
+    "calle": "Rio Sena Nº 88",
+    "codigo_postal": "06500",
+    "coordenadas": [
+      -99.1681046,
+      19.4296985
+    ]
+  },
+  "barrio": "Colonia Cuhatemoc",
+  "cocina": "Francesa Internacional Saludable Opciones Veganas",
+  "horario": {
+    "lunes": {
+      "apertura": "13:00",
+      "cierre": "18:00"
+    },
+    "martes": {
+      "apertura": "10:00",
+      "cierre": "18:00"
+    },
+    "jueves": {
+      "apertura": "13:00",
+      "cierre": "22:00"
+    },
+    "viernes": {
+      "apertura": "13:00",
+      "cierre": "22:00"
+    },
+    "sabado": {
+      "apertura": "13:00",
+      "cierre": "22:00"
+    },
+    "domingo": {
+      "apertura": "13:00",
+      "cierre": "22:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "af21de04-4b98-43fc-9b73-f2f4c9461c52",
+  "nombre": "Restaurante Liverpool",
+  "direccion": {
+    "calle": "Mariano Escobedo Nº 425",
+    "codigo_postal": "11560",
+    "coordenadas": [
+      -99.18015526076613,
+      19.44088352301932
+    ]
+  },
+  "barrio": "Polanco",
+  "cocina": "Tenedor Libre y Comida Mexicana",
+  "horario": {
+    "lunes": {
+      "apertura": "08:00",
+      "cierre": "21:00"
+    },
+    "martes": {
+      "apertura": "08:00",
+      "cierre": "21:00"
+    },
+    "jueves": {
+      "apertura": "08:00",
+      "cierre": "21:00"
+    },
+    "viernes": {
+      "apertura": "08:00",
+      "cierre": "21:00"
+    },
+    "sabado": {
+      "apertura": "08:00",
+      "cierre": "21:00"
+    },
+    "domingo": {
+      "apertura": "08:00",
+      "cierre": "21:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "7d97dcf9-93c1-46c8-9350-cc726971441c",
+  "nombre": "Restaurante Happy Bahn Mi ",
+  "direccion": {
+    "calle": "Avenida Francisco Sosa Nº 266",
+    "codigo_postal": "04010",
+    "coordenadas": [
+      -99.17300739426986,
+      19.349464041067495
+    ]
+  },
+  "barrio": "Santa Catarina",
+  "cocina": "Vietnamita",
+  "horario": {
+    "lunes": {
+      "apertura": "11:00",
+      "cierre": "18:00"
+    },
+    "martes": {
+      "apertura": "11:00",
+      "cierre": "18:00"
+    },
+    "jueves": {
+      "apertura": "11:00",
+      "cierre": "18:00"
+    },
+    "viernes": {
+      "apertura": "11:00",
+      "cierre": "18:00"
+    },
+    "sabado": {
+      "apertura": "11:00",
+      "cierre": "18:00"
+    },
+    "domingo": {
+      "apertura": "11:00",
+      "cierre": "18:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "3d357484-73af-4302-a061-917b32bd2321",
+  "nombre": "Restaurante Rosa Negra Polanco",
+  "direccion": {
+    "calle": "Masaryk Nº 298",
+    "codigo_postal": "11550",
+    "coordenadas": [
+      -99.19312328808665,
+      19.43162162487252
+    ]
+  },
+  "barrio": "Miguel Hidalgo",
+  "cocina": "Tacos y otras comidas mexicanas",
+  "horario": {
+    "lunes": {
+      "apertura": "00:00",
+      "cierre": "02:00"
+    },
+    "martes": {
+      "apertura": "00:00",
+      "cierre": "02:00"
+    },
+    "jueves": {
+      "apertura": "00:00",
+      "cierre": "02:00"
+    },
+    "viernes": {
+      "apertura": "00:00",
+      "cierre": "02:00"
+    },
+    "sabado": {
+      "apertura": "00:00",
+      "cierre": "02:00"
+    },
+    "domingo": {
+      "apertura": "00:00",
+      "cierre": "02:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+},
+{
+  "_id": "78e7b91a-a3f7-4e6d-8297-4411e5f6d409",
+  "nombre": "Restaurante Bros Comedor",
+  "direccion": {
+    "calle": "27 de Abril Nº 568, Cordoba",
+    "codigo_postal": "5000",
+    "coordenadas": [
+      -64.19212589109868,
+      -31.41453703286024
+    ]
+  },
+  "barrio": "Cordoba",
+  "cocina": "Internacional, Contemporanea, Saludable",
+  "horario": {
+    "martes": {
+      "apertura": "12:00",
+      "cierre": "19:00"
+    },
+    "jueves": {
+      "apertura": "12:00",
+      "cierre": "19:00"
+    },
+    "viernes": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    },
+    "sabado": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    },
+    "domingo": {
+      "apertura": "12:00",
+      "cierre": "17:00"
+    }
+  },
+  "zona_horaria": "America/Mexico_City"
+}]

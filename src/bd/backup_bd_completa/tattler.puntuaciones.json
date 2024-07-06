@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "6678503405f8786bd61a899a"
+  },
+  "id_restaurante": "60b8d295f8b4d536c8a68890",
+  "puntuaciones": [
+    {
+      "calificacion": "Excelente",
+      "comentario": "Mariscos, Pescados y atencion de buena calidad",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a6889b"
+      },
+      "_id": {
+        "$oid": "667ee0e62f5dfeb58f48404f"
+      },
+      "fecha": {
+        "$date": "2024-06-28T16:12:22.873Z"
+      }
+    }
+  ],
+  "ranking": 5
+},
+{
+  "_id": {
+    "$oid": "6678503405f8786bd61a899e"
+  },
+  "id_restaurante": "60b8d295f8b4d536c8a68892",
+  "puntuaciones": [
+    {
+      "fecha": {
+        "$date": "2023-06-03T00:00:00.000Z"
+      },
+      "calificacion": "excelente",
+      "comentario": "La mejor carne que he probado",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68893"
+      },
+      "_id": {
+        "$oid": "6678503405f8786bd61a899f"
+      }
+    },
+    {
+      "calificacion": "Excelente",
+      "comentario": "Tacos buenisimos",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68897"
+      },
+      "_id": {
+        "$oid": "667ee88d9e6f654e3c9c6b3c"
+      },
+      "fecha": {
+        "$date": "2024-06-28T16:45:01.117Z"
+      }
+    }
+  ],
+  "ranking": 5
+},
+{
+  "_id": {
+    "$oid": "6678503405f8786bd61a89a2"
+  },
+  "id_restaurante": "60b8d295f8b4d536c8a68894",
+  "puntuaciones": [
+    {
+      "fecha": {
+        "$date": "2023-06-04T00:00:00.000Z"
+      },
+      "calificacion": "regular",
+      "comentario": "Comida normal, pero el ambiente es agradable",
+      "puntuacion": 3,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68895"
+      },
+      "_id": {
+        "$oid": "6678503405f8786bd61a89a3"
+      }
+    },
+    {
+      "calificacion": "Muy Bueno",
+      "comentario": "Ravioles sabrosos.",
+      "puntuacion": 4,
+      "usuario_id": {
+        "$oid": "66783b3597d33deb135b2d6d"
+      },
+      "_id": {
+        "$oid": "667eec837ce0a0b05d6a5c01"
+      },
+      "fecha": {
+        "$date": "2024-06-28T17:01:55.107Z"
+      }
+    }
+  ],
+  "ranking": 3.5
+},
+{
+  "_id": {
+    "$oid": "6678503405f8786bd61a89a6"
+  },
+  "id_restaurante": "60b8d295f8b4d536c8a68896",
+  "puntuaciones": [
+    {
+      "fecha": {
+        "$date": "2023-06-05T00:00:00.000Z"
+      },
+      "calificacion": "excelente",
+      "comentario": "Gran variedad de platos y excelente servicio",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68897"
+      },
+      "_id": {
+        "$oid": "6678503405f8786bd61a89a7"
+      }
+    },
+    {
+      "calificacion": "Muy Bueno",
+      "comentario": "Buena entrada, cantidad y abundancia.Vale la pena el pago",
+      "puntuacion": 4,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68895"
+      },
+      "_id": {
+        "$oid": "667eed9b7ce0a0b05d6a5c07"
+      },
+      "fecha": {
+        "$date": "2024-06-28T17:06:35.238Z"
+      }
+    }
+  ],
+  "ranking": 4.5
+},
+{
+  "_id": {
+    "$oid": "6678503405f8786bd61a89aa"
+  },
+  "id_restaurante": "60b8d295f8b4d536c8a68898",
+  "puntuaciones": [
+    {
+      "fecha": {
+        "$date": "2023-06-06T00:00:00.000Z"
+      },
+      "calificacion": "bueno",
+      "comentario": "Buena comida con muchas opciones",
+      "puntuacion": 4,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68899"
+      },
+      "_id": {
+        "$oid": "6678503405f8786bd61a89ab"
+      }
+    },
+    {
+      "calificacion": "Bueno",
+      "comentario": "",
+      "puntuacion": 4,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a6889d"
+      },
+      "_id": {
+        "$oid": "667ed6d01cc3e14f0aaf6cb7"
+      },
+      "fecha": {
+        "$date": "2024-06-28T15:29:20.975Z"
+      }
+    },
+    {
+      "calificacion": "Excelente",
+      "comentario": "",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a6889f"
+      },
+      "_id": {
+        "$oid": "667edc05e825093fafa6df24"
+      },
+      "fecha": {
+        "$date": "2024-06-28T15:51:33.656Z"
+      }
+    },
+    {
+      "calificacion": "Excelente",
+      "comentario": "",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "66783b3597d33deb135b2d6c"
+      },
+      "_id": {
+        "$oid": "667eddf62f5dfeb58f48403a"
+      },
+      "fecha": {
+        "$date": "2024-06-28T15:59:50.877Z"
+      }
+    }
+  ],
+  "ranking": 4.5
+},
+{
+  "_id": {
+    "$oid": "667bdf8cd9d795d99080e835"
+  },
+  "id_restaurante": "0543ec94-61fc-47b0-9ace-99ac2963a857",
+  "puntuaciones": [
+    {
+      "calificacion": "Excelente",
+      "comentario": "Un ambiente calido y una comida tradicional",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68889"
+      },
+      "_id": {
+        "$oid": "667be299d9d795d99080e83a"
+      },
+      "fecha": {
+        "$date": "2024-06-26T09:42:49.458Z"
+      }
+    },
+    {
+      "calificacion": "Excelente",
+      "comentario": "Un lugar para pasar en familia",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "66783b3597d33deb135b2d6a"
+      },
+      "_id": {
+        "$oid": "667beb719b28ed83a509960f"
+      },
+      "fecha": {
+        "$date": "2024-06-26T10:20:33.924Z"
+      }
+    },
+    {
+      "calificacion": "Mala",
+      "comentario": "Atencion malisima, tardan mucho en servir",
+      "puntuacion": 2,
+      "usuario_id": {
+        "$oid": "667d9f31970e49c94de498b0"
+      },
+      "_id": {
+        "$oid": "667eee8e7ce0a0b05d6a5c11"
+      },
+      "fecha": {
+        "$date": "2024-06-28T17:10:38.928Z"
+      }
+    }
+  ],
+  "ranking": 4.25
+},
+{
+  "_id": {
+    "$oid": "667ed1d2d1d3e6f6c223c794"
+  },
+  "id_restaurante": "5c72a9ee-a011-4c7a-b637-28bab184a164",
+  "puntuaciones": [
+    {
+      "calificacion": "Excelente",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68889"
+      },
+      "_id": {
+        "$oid": "667ed1d2d1d3e6f6c223c795"
+      },
+      "fecha": {
+        "$date": "2024-06-28T15:08:02.574Z"
+      }
+    },
+    {
+      "calificacion": "Bueno",
+      "comentario": "Comida buena pero mala atencion. Tardan mucho en servir",
+      "puntuacion": 3,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68891"
+      },
+      "_id": {
+        "$oid": "667ed3dfd1d3e6f6c223c799"
+      },
+      "fecha": {
+        "$date": "2024-06-28T15:16:47.614Z"
+      }
+    },
+    {
+      "calificacion": "Regular",
+      "puntuacion": 2,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a6889d"
+      },
+      "_id": {
+        "$oid": "667ed4b9d1d3e6f6c223c79e"
+      },
+      "fecha": {
+        "$date": "2024-06-28T15:20:25.738Z"
+      }
+    },
+    {
+      "calificacion": "Bueno",
+      "puntuacion": 4,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a6889d"
+      },
+      "_id": {
+        "$oid": "667ed513d1d3e6f6c223c7a4"
+      },
+      "fecha": {
+        "$date": "2024-06-28T15:21:55.301Z"
+      }
+    },
+    {
+      "calificacion": "Mala",
+      "comentario": "Comida pre calentada",
+      "puntuacion": 2,
+      "usuario_id": {
+        "$oid": "66783b3597d33deb135b2d6d"
+      },
+      "_id": {
+        "$oid": "667eefbe7ce0a0b05d6a5c18"
+      },
+      "fecha": {
+        "$date": "2024-06-28T17:15:42.042Z"
+      }
+    },
+    {
+      "calificacion": "Regular",
+      "comentario": "Ambiente agradable atencion mala, Comida regular",
+      "puntuacion": 2,
+      "usuario_id": {
+        "$oid": "667d9f31970e49c94de498b0"
+      },
+      "_id": {
+        "$oid": "667ef3e29d847c0b2056876d"
+      },
+      "fecha": {
+        "$date": "2024-06-28T17:33:22.800Z"
+      }
+    }
+  ],
+  "ranking": 3
+},
+{
+  "_id": {
+    "$oid": "667edeb12f5dfeb58f484042"
+  },
+  "id_restaurante": "60b860b8d295f8b4d536c8a68888",
+  "puntuaciones": [
+    {
+      "calificacion": "Muy Bueno",
+      "comentario": "Comida y trato excelente",
+      "puntuacion": 5,
+      "usuario_id": {
+        "$oid": "66783b3597d33deb135b2d6c"
+      },
+      "_id": {
+        "$oid": "667edeb12f5dfeb58f484043"
+      },
+      "fecha": {
+        "$date": "2024-06-28T16:02:57.319Z"
+      }
+    }
+  ],
+  "ranking": 5
+},
+{
+  "_id": {
+    "$oid": "667eeb617ce0a0b05d6a5bfa"
+  },
+  "id_restaurante": "6678503405f8786bd61a899a",
+  "puntuaciones": [
+    {
+      "calificacion": "Muy Bueno",
+      "comentario": "Comida tipica. La carne deliciosa.",
+      "puntuacion": 4,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68897"
+      },
+      "_id": {
+        "$oid": "667eeb617ce0a0b05d6a5bfb"
+      },
+      "fecha": {
+        "$date": "2024-06-28T16:57:05.984Z"
+      }
+    }
+  ],
+  "ranking": 4
+},
+{
+  "_id": {
+    "$oid": "6686a6b9c878e5bf24aaeaad"
+  },
+  "id_restaurante": "693b7178-b8c8-4caf-afec-72f4213fdb96",
+  "puntuaciones": [
+    {
+      "calificacion": "Buena",
+      "comentario": "Las pastas son riquisimas pero la atencion no es muy buena",
+      "puntuacion": 4,
+      "usuario_id": {
+        "$oid": "60b8d295f8b4d536c8a68897"
+      },
+      "_id": {
+        "$oid": "6686a6b9c878e5bf24aaeaae"
+      },
+      "fecha": {
+        "$date": "2024-07-04T13:42:17.040Z"
+      }
+    }
+  ],
+  "ranking": 4
+}]

@@ -1,0 +1,528 @@
+[{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68891"
+  },
+  "nombre": "María Gómez",
+  "email": "maria.gomez85@outlook.com",
+  "telefono": "1550895510",
+  "direccion": {
+    "calle": "Bulnes Nº 1600, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1180",
+    "coordenadas": [
+      -58.41637872521695,
+      -34.592559164056105
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68893"
+  },
+  "nombre": "Pedro Rodríguez",
+  "email": "prodriguez@yahoo.com",
+  "telefono": "1540605476",
+  "direccion": {
+    "calle": "Peron Nº 340, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1038",
+    "coordenadas": [
+      -58.37146374490301,
+      -34.605429373696275
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68895"
+  },
+  "nombre": "Ana Martínez",
+  "email": "anamartinez78@gmail.com",
+  "telefono": "1534874449",
+  "direccion": {
+    "calle": "Segurola Nº 567, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1038",
+    "coordenadas": [
+      -58.48782310257217,
+      -34.6292461221128
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68897"
+  },
+  "nombre": "Luisa Sánchez",
+  "email": "lsanchez@gmail.com",
+  "telefono": "48903457",
+  "direccion": {
+    "calle": "Uriarte Nº 2425, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1425",
+    "coordenadas": [
+      -58.422357,
+      -34.580332
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a68899"
+  },
+  "nombre": "Carlos López",
+  "email": "carlos.lopez@hotmail.com",
+  "telefono": "46301011",
+  "direccion": {
+    "calle": "Viamonte Nº 246, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1053",
+    "coordenadas": [
+      -58.37113414675024,
+      -34.59939727132337
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a6889b"
+  },
+  "nombre": "Laura García",
+  "email": "lauragarcia@gmail.com",
+  "telefono": "47694757",
+  "direccion": {
+    "calle": "Bartolome Mitre Nº 345, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1424",
+    "coordenadas": [
+      -58.44352388472425,
+      -34.62559752766675
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a6889d"
+  },
+  "nombre": "Jorge Martín",
+  "email": "jmartin79@yahoo.com",
+  "telefono": "43201247",
+  "direccion": {
+    "calle": "Helguera Nº 678, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1406",
+    "coordenadas": [
+      -58.47592684859571,
+      -34.62401219830798
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "60b8d295f8b4d536c8a6889f"
+  },
+  "nombre": "Sofía Fernández",
+  "email": "s.fernandez@outlook.com",
+  "telefono": "1547695020",
+  "direccion": {
+    "calle": "Pasaje Centenario Nº 901, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1406",
+    "coordenadas": [
+      -58.433481491491825,
+      -34.61411486658301
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d68"
+  },
+  "nombre": "Martín Sánchez",
+  "email": "martin234@gmail.com",
+  "telefono": "47654321",
+  "direccion": {
+    "calle": "Sanabria Nº 789, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1407",
+    "coordenadas": [
+      -58.48873600441922,
+      -34.62704934677682
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d69"
+  },
+  "nombre": "Andrea López",
+  "email": "andreab@gmail.com",
+  "telefono": "46267747",
+  "direccion": {
+    "calle": "Conde Nº 1300, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1426",
+    "coordenadas": [
+      -58.45692440988154,
+      -34.57443156711624
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6a"
+  },
+  "nombre": "Daniel Martínez",
+  "email": "danielm@outlook.com",
+  "telefono": "43451255",
+  "direccion": {
+    "calle": "Monroe Nº 1234, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1428",
+    "coordenadas": [
+      -58.44780259639459,
+      -34.55123583909663
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6b"
+  },
+  "nombre": "Carolina Rodríguez",
+  "email": "carolinaro@yahoo.com",
+  "telefono": "1549657890",
+  "direccion": {
+    "calle": "Morris Nº 567, Villa Martelli",
+    "codigo_postal": "1600",
+    "coordenadas": [
+      -58.513142233258904,
+      -34.548709168825646
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6c"
+  },
+  "nombre": "Fernando Gómez",
+  "email": "fernando45@gmail.com",
+  "telefono": "45679000",
+  "direccion": {
+    "calle": "Bernardo de Yrigoyen Nº 890, Moron",
+    "codigo_postal": "1600",
+    "coordenadas": [
+      -58.63194258907632,
+      -34.65940154850423
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6d"
+  },
+  "nombre": "Lucía Pérez",
+  "email": "perez@gmail.com",
+  "telefono": "44556346",
+  "direccion": {
+    "calle": "Avenida Rivadavia Nº 246, Haedo",
+    "codigo_postal": "1600",
+    "coordenadas": [
+      -58.55829199092435,
+      -34.639671169311825
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66783b3597d33deb135b2d6e"
+  },
+  "nombre": "Pablo Fernández",
+  "email": "pablofer@outlook.com",
+  "telefono": "49873459",
+  "direccion": {
+    "calle": "Humboldt Nº 1967, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1414",
+    "coordenadas": [
+      -58.43276154056114,
+      -34.582778983289536
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "667d9f31970e49c94de498b0"
+  },
+  "nombre": "German Aguirre",
+  "email": "germanaguirre@gmail.com",
+  "telefono": "1589467710",
+  "direccion": {
+    "calle": "Montevido Nº 345, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1019",
+    "coordenadas": [
+      -58.38907135839724,
+      -34.60477981125132
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "667fffdd368f7721c58c6720"
+  },
+  "nombre": "Alondra Alejandra Chavez de la Cruz",
+  "email": "chcruz@gmail.com",
+  "telefono": "52 6144547422",
+  "direccion": {
+    "calle": "Paseo de la Reforma Nº 116, Ciudad de Mexico",
+    "codigo_postal": "25020",
+    "coordenadas": [
+      -100.97419248974495,
+      25.426415104886292
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66800349368f7721c58c6722"
+  },
+  "nombre": "Santiago Leonardo Aguilar Alarcon",
+  "email": "slalarcon@gmail.com",
+  "telefono": "52 23498756",
+  "direccion": {
+    "calle": "Paseo de la Reforma Nº 190, Ciudad de Mexico",
+    "codigo_postal": "25020",
+    "coordenadas": [
+      -100.9741711185802,
+      25.426544869788394
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "668003b9368f7721c58c6724"
+  },
+  "nombre": "Jeremias Antonio Aranda Altamirano",
+  "email": "jaaranda@gmail.com",
+  "telefono": "52 78902340",
+  "direccion": {
+    "calle": "Mazatlan Nº 116, Ciudad de Mexico",
+    "codigo_postal": "67140",
+    "coordenadas": [
+      -100.26929825686994,
+      25.67001326640782
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66800412368f7721c58c6726"
+  },
+  "nombre": "Mateo Sebastian Bautista Caballero",
+  "email": "caballero@gmail.com",
+  "telefono": "52 34569087",
+  "direccion": {
+    "calle": "Mazatlan Nº 900, Ciudad de Mexico",
+    "codigo_postal": "11560",
+    "coordenadas": [
+      -99.17757657828665,
+      19.413396203767242
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66800510368f7721c58c672a"
+  },
+  "nombre": "Manuel Carlos Castro Calderon",
+  "email": "calderon24@gmail.com",
+  "telefono": "52 67854809",
+  "direccion": {
+    "calle": "Colonia Roma Sur Nº 65, Ciudad de Mexico",
+    "codigo_postal": "01080",
+    "coordenadas": [
+      -99.20500701749047,
+      19.34037380294757
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "668005ba368f7721c58c672c"
+  },
+  "nombre": "Andres Leonardo Navarro Olivares",
+  "email": "olivares24@gmail.com",
+  "telefono": "52 12376888",
+  "direccion": {
+    "calle": "Avenida de los Campos Eliseo Nº 88, Ciudad de Mexico",
+    "codigo_postal": "11600",
+    "coordenadas": [
+      -99.19001910527469,
+      19.429238914107614
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "668006dc368f7721c58c672e"
+  },
+  "nombre": "Juan Mateo Muñoz Iglesias",
+  "email": "iglesias24@gmail.com",
+  "telefono": "52 97870067",
+  "direccion": {
+    "calle": "Avenida de los Campos Eliseo Nº 88, Ciudad de Mexico",
+    "codigo_postal": "11600",
+    "coordenadas": [
+      -99.19001910527469,
+      19.429238914107614
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6681e03fe1225f6424b88874"
+  },
+  "nombre": "Ariel Guzman",
+  "email": "guzman@gmail.com",
+  "telefono": "1589780967",
+  "direccion": {
+    "calle": "Montevideo Nº 150, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1009",
+    "coordenadas": [
+      -58.389441290926136,
+      -34.60710023181381
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6681e141e1225f6424b88876"
+  },
+  "nombre": "Susana Rivas",
+  "email": "rivas@gmail.com",
+  "telefono": "45687345",
+  "direccion": {
+    "calle": "Reconquista Nº 1200, Ciudad Autonoma de Buenos Aires",
+    "codigo_postal": "1001",
+    "coordenadas": [
+      -58.37344173325633,
+      -34.594133626180295
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6681e256e1225f6424b88878"
+  },
+  "nombre": "Enrique Luis Cardenas Rios",
+  "email": "rios@gmail.com",
+  "telefono": "5200789845",
+  "direccion": {
+    "calle": "Colonia Roma Sur Nº 1690, Ciudad de Mexico",
+    "codigo_postal": "0600",
+    "coordenadas": [
+      -99.163304,
+      19.405834
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6682d3d4bf90b520c5dd9b29"
+  },
+  "nombre": "Carolina Sanchez Gomez",
+  "email": "gomez@gmail.com",
+  "telefono": "52 89734723",
+  "direccion": {
+    "calle": "Palma Nº 40, Ciudad de Mexico",
+    "codigo_postal": "0600",
+    "coordenadas": [
+      -99.1352601187688,
+      19.432097717949212
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6684007d8ff107e05233db72"
+  },
+  "nombre": "Celeste Carla Gomez Centurion",
+  "email": "centurion@gmail.com",
+  "telefono": "52 24357867",
+  "direccion": {
+    "calle": "Rio Sena Nº 90, Ciudad de Mexico",
+    "codigo_postal": "06500",
+    "coordenadas": [
+      -99.1654973,
+      19.4295686
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "66844d3a7e608b1612d6b1f2"
+  },
+  "nombre": "Erica Antonia Ruiz Cardenas",
+  "email": "cardenas@gmail.com",
+  "telefono": "52 38726757",
+  "direccion": {
+    "calle": "Avenida Horacio Nº 3478, Ciudad de Mexico",
+    "codigo_postal": "11560",
+    "coordenadas": [
+      -99.1819039134942,
+      19.43326865827339
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6686af26c878e5bf24aaeac6"
+  },
+  "nombre": "Luciana Andrea Gomez Cuevas",
+  "email": "cuevas@gmail.com",
+  "telefono": "52 54857869",
+  "direccion": {
+    "calle": "Rio Sena Nº 200",
+    "codigo_postal": "06500",
+    "coordenadas": [
+      -99.16513593226306,
+      19.429095610922772
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6686b127c878e5bf24aaeac8"
+  },
+  "nombre": "Rosa Maria Heredia Contreras",
+  "email": "contreras@gmail.com",
+  "telefono": "52 34347870",
+  "direccion": {
+    "calle": "Hamburgo Nº 560",
+    "codigo_postal": "06600",
+    "coordenadas": [
+      -99.17423647643959,
+      19.421757601835424
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6686b5c18fed7c22a73fa420"
+  },
+  "nombre": "Vicente Carlos Sosa Durango",
+  "email": "durango@gmail.com",
+  "telefono": "52 34398810",
+  "direccion": {
+    "calle": "Berlin Nº 70",
+    "codigo_postal": "04100",
+    "coordenadas": [
+      -99.15697216294714,
+      19.356804883225685
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6686dbfa366416e1cff78275"
+  },
+  "nombre": "Viviana Karina Sanabria Diaz",
+  "email": "diaz@gmail.com",
+  "telefono": "52 24387927",
+  "direccion": {
+    "calle": "Rio Sena Nº 561, Ciudad de Mexico",
+    "codigo_postal": "91808",
+    "coordenadas": [
+      -96.21032713411621,
+      19.19395823346338
+    ]
+  }
+}]
